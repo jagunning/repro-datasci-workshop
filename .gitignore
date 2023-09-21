@@ -4,3 +4,12 @@
 .httr-oauth
 .DS_Store
 .quarto
+
+*.pdf
+
+pdfexample.pdf
+#bc this is in gitignore it wont be saved thru git at all in this project or in the git window
+
+
+notes/
+# ignore this whole folder
