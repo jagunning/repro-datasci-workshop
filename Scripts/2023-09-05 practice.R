@@ -25,6 +25,7 @@ gap_big <- filter(gapminder, pop > 10000000)
 write_csv(gap_1980s, "data_clean/gapminder_1980s.csv")
 
 print("hello")
-
+print("sup")
+print("ya")
 
 
