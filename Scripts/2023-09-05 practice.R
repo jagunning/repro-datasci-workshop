@@ -19,7 +19,6 @@ gap_1980s <- filter(gapminder, year >= 1980, year < 1990)
 
 gap_big <- filter(gapminder, pop > 10000000)
 
-
 # Write data --------------------------------------------------------------
 
 write_csv(gap_1980s, "data_clean/gapminder_1980s.csv")
@@ -29,4 +28,7 @@ print("sup")
 print("ya")
 
  
+
+commit 
+
 
